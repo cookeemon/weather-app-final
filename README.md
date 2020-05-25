@@ -8,7 +8,10 @@ locations. It is a simple project and I
 could not put much time into it. However,
 it was nonetheless a great learning experience
 with react and a beginner step to learn a lot
-more about api usage.
+more about api usage. I used a lot of youtube
+videos, and information from various different
+sites such as 'stackoverflow' and the official
+react website.
 
 I learned a lot about fetching data. I love
 the fact that there are websites that are
@@ -18,7 +21,7 @@ I was able to slowly get better at creating
 the image I see in my head and putting it
 to code. I was glad to learn about the difference
 between syntax when creating functions instead of
-classes. 
+classes.
 
 This project is very much incomplete and basic.
 However, I will definitely soon come back to this
